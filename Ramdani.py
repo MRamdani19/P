@@ -20,7 +20,7 @@ if(selected == "Home") :
    
 if(selected == "Non-Inverting Amplifier") :
     st.title("Contoh Rangkaian Non-Inverting Amplifier")
-    st.image("p.jpg", width = 500)
+    st.image("IMG-20230614-WA0020.jpg", width = 500)
     st.image("IMG-20230615-WA0001.jpg",width=500)
     st.subheader("Perhitungan Vo dan Sinyal Output pada Rangkaian Non-Inverting Amplifier")
 
