@@ -15,13 +15,13 @@ with st.sidebar :
 
 if(selected == "Home") :
     st.header("Kalkulator Perhitungan Vo pada OP-AMP dan Sinyal Output Hasil Keluaran")
-    st.subheader("By Muhammad Ramdani (11-2021-044)")
+    st.subheader("By Muhamad Ramdani (11-2021-044)")
     st.write("Program ini dibuat untuk memenuhi Tugas Besar Elektronika Analog\nDosen Pengampu : Ir. Rustamaji M.T")
    
 if(selected == "Non-Inverting Amplifier") :
     st.title("Contoh Rangkaian Non-Inverting Amplifier")
     st.image("p.jpg", width = 500)
-    st.image("a.jpg",width=500)
+    st.image("IMG-20230615-WA0001.jpg",width=500)
     st.subheader("Perhitungan Vo dan Sinyal Output pada Rangkaian Non-Inverting Amplifier")
 
     a=st.number_input("Masukkan Nilai VCC (Volt)",0)
